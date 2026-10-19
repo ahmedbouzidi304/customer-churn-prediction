@@ -45,7 +45,7 @@ Cross-validated comparison: logistic regression 0.846 · random forest 0.845 · 
 > Assumptions for the profit analysis (offer cost $50, 30% success rate, 12-month value) are explicit in the notebook and easy to change.
 
 ## Run it
-The notebook is committed **with all outputs** from a Colab run. For the best reading experience (styled section headers), view it on [nbviewer](https://nbviewer.org/github/ahmedbouzidi304/customer-churn-prediction/blob/main/churn_prediction.ipynb): GitHub and Colab strip the inline CSS.
+The notebook is committed **with all outputs** from a Colab run. It renders with styled section headers on GitHub and [nbviewer](https://nbviewer.org/github/ahmedbouzidi304/customer-churn-prediction/blob/main/churn_prediction.ipynb); Colab shows the headers as plain text because it strips inline CSS.
 
 Click **Open in Colab** above, then *Runtime → Run all* (CPU is enough, about 10 minutes).
 Locally: `pip install -r requirements.txt` and open the notebook in Jupyter.
